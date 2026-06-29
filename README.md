@@ -42,10 +42,10 @@ Remote Desktop connection established and osTicket installation files extracted 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="337" height="304" alt="IIS with CGI" src="https://github.com/user-attachments/assets/bbbb84bb-62f6-4740-b05f-3d6935753d9c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Internet Information Services (IIS) installed with CGI enabled to support PHP processing.
 </p>
 <br />
 
