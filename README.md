@@ -90,9 +90,9 @@ Required PHP extensions enabled in IIS to support osTicket functionality.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="932" height="440" alt="Admin Login Page" src="https://github.com/user-attachments/assets/98423369-c3cd-42e6-8b84-a782e45fce25" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Administrative login page verified, confirming successful osTicket installation.
 </p>
 <br />
