@@ -50,10 +50,10 @@ Internet Information Services (IIS) installed with CGI enabled to support PHP pr
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="701" height="392" alt="PHP Registration" src="https://github.com/user-attachments/assets/4be189b4-df93-4e39-ae1d-e2ba1be4369b" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+PHP configured and registered within IIS using PHP Manager.
 </p>
 <br />
 
