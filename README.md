@@ -58,10 +58,10 @@ PHP configured and registered within IIS using PHP Manager.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="665" height="393" alt="osTicket Deployment" src="https://github.com/user-attachments/assets/057b299e-d989-41e1-841f-9566d0d01ead" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket application files deployed to the IIS web root directory.
 </p>
 <br />
 
